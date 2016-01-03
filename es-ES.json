@@ -2,12 +2,12 @@
 	"TYPE_movie": "Película",
 	"TYPE_series": "Series",
 	"TYPE_tv": "Canales de TV",
-	"TYPE_channel": "Canal de Youtube",
+	"TYPE_channel": "Youtube",
 
 	"TYPE_movie_PL": "Películas",
 	"TYPE_series_PL": "Series",
 	"TYPE_tv_PL": "Canales de TV",
-	"TYPE_channel_PL": "Canales de Youtube",
+	"TYPE_channel_PL": "Youtube",
 
 	"BACK": "Atrás",
 
